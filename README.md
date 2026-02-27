@@ -1,6 +1,6 @@
 # Projetos (Ana Luísa, Camila e Emanuella) 1DS_SS
 
-## #1- Logica de programação e algoritmos:\
+## 1- Logica de programação e algoritmos:\
 ### Comandos de Python:
 ### variáveis: armazenar informações temporárias\
 
