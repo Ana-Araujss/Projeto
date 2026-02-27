@@ -1,6 +1,6 @@
 # Projetos (Ana Luísa, Camila e Emanuella) 1DS_SS
 
-## 1- Logica de programação e algoritmos:\
+## 1- Logica de programação e algoritmos:
 ### Comandos de Python:
 ### variáveis: armazenar informações temporárias\
 
@@ -15,12 +15,12 @@
 
 ### condicional: if; else; elif\
 
-## 2- IOT:\
+## 2- IOT:
 ### Desenvolvimento de um Furby e utilização de sistemas operacionais (HTML).\
 
-## 3- Levantamento de Requisitos:\
+## 3- Levantamento de Requisitos:
 ### Leitura do material de requisitos e a produção de diagramas de caso de uso.\
 
-## 4- Sistemas Operacionais:\
+## 4- Sistemas Operacionais:
 ### Projetos de aprendizado de uso no GitHub e conhecimento de sistemas operacionais.\
 
